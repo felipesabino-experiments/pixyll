@@ -1,10 +1,11 @@
 # Site settings
-title: Pixyll
-email: your_email@example.com
-author: John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title: Felipe Sabino
+email: felipesabino-experiments@sabino.me
+author: Felipe Sabino
+description: "My stuf..."
 baseurl: ""
-url: "http://pixyll.com"
+url: "http://felipesabino-experiments.github.io/pixyll"
+google_analytics:
 
 # Build settings
 markdown: kramdown
