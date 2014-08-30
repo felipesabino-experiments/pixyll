@@ -3,8 +3,8 @@ title: Felipe Sabino
 email: felipesabino-experiments@sabino.me
 author: Felipe Sabino
 description: "My stuf..."
-baseurl: ""
-url: "http://felipesabino-experiments.github.io/pixyll"
+baseurl: "/pixyll"
+url: "http://felipesabino-experiments.github.io"
 google_analytics:
 
 # Build settings
