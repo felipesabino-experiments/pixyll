@@ -6,7 +6,7 @@ summary:    How to push/pop iOS UINavigationControllers using other animations b
 categories: ios
 ---
 
-![ios-animation](/pixyll/images/ios-animation.png)
+![ios-animation](/pixyll/images/ios_animation.png)
 
 I have seen lots of people asking on how to push/pop UINavigationControllers using other animations besides the default one, like flip or curl.
 
