@@ -1,13 +1,13 @@
 # Site settings
 title: Felipe Sabino
-email: felipesabino-experiments@sabino.me
+email: felipe@sabino.me
 author: Felipe Sabino
-description: "My stuf..."
-baseurl: "/pixyll"
-url: "http://felipesabino-experiments.github.io"
-google_analytics:
+description: "Felipe Sabino's Page"
+baseurl: ""
+url: "http://felipesabino.github.io"
+google_analytics: UA-22906860-2
 
 # Build settings
 markdown: kramdown
 permalink: pretty
-paginate: 3
+paginate: 5
